@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm Robert Devasia a Full Stack Developer
+Can you see me 😃 ? 
 
+Yes, Its me Robert Devesia. I do product building and collabaration and stuffs....
 
-
+I'm a full stack developer both mobile and web 😁 , kind of craziest man.
+I'm obsessed with Javascript 😚
 
 
 - 🔭 I’m currently working on Angular,React,React-Native,MongoDB,NodeJS 
