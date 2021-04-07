@@ -2,7 +2,7 @@
 
 So you're here 😃 ? 
 
-Yes, Its me Robert Devesia. I do product building and collabaration and stuffs....
+Yes, Its me Robert Devesia. I do product building , collabaration and stuffs....
 
 I'm a full stack developer both mobile and web 😁 , kind of craziest man.
 I'm obsessed with Javascript 😚
