@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Can you see me 😃 ? 
+So you're here 😃 ? 
 
 Yes, Its me Robert Devesia. I do product building and collabaration and stuffs....
 
