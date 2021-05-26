@@ -15,3 +15,5 @@ I'm obsessed with Javascript 😚
 - 💬 Ask me about building a fully fledged hybrid product from scratch
 - 📫 How to reach me: robertdevasia@outlook.com
 - 😄 Pronouns: He/him kiddo 😂
+
+[![Roberts's GitHub stats](https://github-readme-stats.vercel.app/api?username=docsploit)](https://github.com/docsploit/github-readme-stats)
