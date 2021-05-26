@@ -17,3 +17,7 @@ I'm obsessed with Javascript 😚
 - 😄 Pronouns: He/him kiddo 😂
 
 ![Robert Devasia's github stats](https://github-readme-stats.vercel.app/api?username=docsploit&count_private=true&theme=gotham&showicons=true)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
