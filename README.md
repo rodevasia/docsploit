@@ -16,4 +16,4 @@ I'm obsessed with Javascript 😚
 - 📫 How to reach me: robertdevasia@outlook.com
 - 😄 Pronouns: He/him kiddo 😂
 
-[![Robert Devasia's github stats](https://github-readme-stats.vercel.app/api?username=docsploit&organizations=xantech&count_private=true&theme=breeze-dark&showicons=true)](https://github.com/safwanvk/github-readme-stats)
+[![Robert Devasia's github stats](https://github-readme-stats.vercel.app/api?username=docsploit&organizations=xantech&count_private=true&theme=breeze-dark&showicons=true)](https://github.com/docsploit/github-readme-stats)
