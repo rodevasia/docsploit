@@ -28,4 +28,11 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:wakadc-->
+![50%](https://progress-bar.dev/53.8/?title=C++&width=250&color=#f34b7d)
+![50%](https://progress-bar.dev/28.5/?title=TypeScript&width=250&color=#2b7489)
+![50%](https://progress-bar.dev/7.24/?title=HTML&width=250&color=#e34c26)
+![50%](https://progress-bar.dev/6.44/?title=Other&width=250&color=null)
+![50%](https://progress-bar.dev/3.54/?title=JSON&width=250&color=null)
+![50%](https://progress-bar.dev/0.49/?title=Objective-C&width=250&color=#438eff)
+
 <!--END_SECTION:wakadc-->
