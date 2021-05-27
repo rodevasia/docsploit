@@ -37,6 +37,9 @@ I'm obsessed with Javascript 😚
 
 <!--Docsium::END-->
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
+
 <label for="file">File progress:</label>
 
 <progress id="file" max="100" value="70"> 70% </progress>
