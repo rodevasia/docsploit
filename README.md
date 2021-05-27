@@ -31,5 +31,5 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 
 <!--Docsium::START-->
 <!--Docsium::START-->\\n
-  ![53.8](https://progress-bar.dev/53.8/?title=C&width=250&color=#f34b7d)
+  ![53.8](https://progress-bar.dev/538/?title=C&width=250&color=#f34b7d)
 <!--Docsium::END-->
