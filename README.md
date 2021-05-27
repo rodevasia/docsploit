@@ -28,5 +28,5 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <!--Docsium::Waka-->
-```consolas``
+```consolas``'
 <!--Docsium::Waka-->
