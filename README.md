@@ -30,11 +30,11 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 
 <!--Docsium::START-->\\n
 
-![54%](https://progress-bar.dev/54/?title=C++&width=250&color=#f34b7d)
+![54%](https://progress-bar.dev/54/?title=C++&width=250&color=f34b7d)
 
-![29%](https://progress-bar.dev/29/?title=TypeScript&width=250&color=#2b7489)
+![29%](https://progress-bar.dev/29/?title=TypeScript&width=250&color=2b7489)
 
-![7%](https://progress-bar.dev/7/?title=HTML&width=250&color=#e34c26)
+![7%](https://progress-bar.dev/7/?title=HTML&width=250&color=e34c26)
 
 ![6%](https://progress-bar.dev/6/?title=Other&width=250&color=null)
 
