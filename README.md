@@ -24,7 +24,7 @@ I'm obsessed with Javascript 😚
 
 ![19%](https://progress-bar.dev/19/?title=TypeScript&color=2b7489)
 
-![15%](https://progress-bar.dev/15/?title=C++&color=f34b7d)
+![15%](https://progress-bar.dev/15/?title=C%2B%2B&color=f34b7d)
 
 ![1%](https://progress-bar.dev/1/?title=HTML&color=e34c26)
 
