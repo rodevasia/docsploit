@@ -28,5 +28,5 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:wakadc-->
-![50%](https://progress-bar.dev/53.8/?title=C++&width=250&color=#f34b7d)
+![50%](https://progress-bar.dev/50)
 <!--END_SECTION:wakadc-->
