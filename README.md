@@ -28,17 +28,20 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!--Docsium::START-->\\n
+<!--Docsium::START-->
+![64%](https://progress-bar.dev/64/?title=JavaScript&color=f1e05a)
 
-![54%](https://progress-bar.dev/54/?title=C++&width=250&color=f34b7d)
+![19%](https://progress-bar.dev/19/?title=TypeScript&color=2b7489)
 
-![29%](https://progress-bar.dev/29/?title=TypeScript&width=250&color=2b7489)
+![15%](https://progress-bar.dev/15/?title=C++&color=f34b7d)
 
-![7%](https://progress-bar.dev/7/?title=HTML&width=250&color=e34c26)
+![1%](https://progress-bar.dev/1/?title=HTML&color=e34c26)
 
-![6%](https://progress-bar.dev/6/?title=Other&width=250&color=null)
+![1%](https://progress-bar.dev/1/?title=Other&color=null)
 
-![4%](https://progress-bar.dev/4/?title=JSON&width=250&color=null)
+![1%](https://progress-bar.dev/1/?title=JSON&color=null)
 
-![0%](https://progress-bar.dev/0/?title=Objective-C&width=250&color=#438eff)
-\n<!--Docsium::END-->
+![0%](https://progress-bar.dev/0/?title=Objective-C&color=438eff)
+
+
+<!--Docsium::END-->
