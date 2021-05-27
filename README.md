@@ -28,4 +28,4 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![500%](https://progress-bar.dev/50)
+
