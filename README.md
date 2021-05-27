@@ -27,6 +27,5 @@ Other        5 mins          █▓░░░░░░░░░░░░░░░
 JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 <!--END_SECTION:waka-->
-<!--START_SECTION:wakadc-->
-![50%](https://progress-bar.dev/50)
-<!--END_SECTION:wakadc-->
+<!-- Docsium::Waka-->
+<!--Docsium::Waka-->
