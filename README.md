@@ -20,19 +20,19 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![64%](https://progress-bar.dev/64/?title=JavaScript&color=f1e05a)
+![64%](https://progress-bar.dev/64/?title='JavaScript'&color=f1e05a)
 
-![19%](https://progress-bar.dev/19/?title=TypeScript&color=2b7489)
+![19%](https://progress-bar.dev/19/?title='TypeScript'&color=2b7489)
 
-![15%](https://progress-bar.dev/15/?title=C++&color=f34b7d)
+![15%](https://progress-bar.dev/15/?title='C++'&color=f34b7d)
 
-![1%](https://progress-bar.dev/1/?title=HTML&color=e34c26)
+![1%](https://progress-bar.dev/1/?title='HTML'&color=e34c26)
 
-![1%](https://progress-bar.dev/1/?title=Other&color=null)
+![1%](https://progress-bar.dev/1/?title='Other'&color=null)
 
-![1%](https://progress-bar.dev/1/?title=JSON&color=null)
+![1%](https://progress-bar.dev/1/?title='JSON'&color=null)
 
-![0%](https://progress-bar.dev/0/?title=Objective-C&color=438eff)
+![0%](https://progress-bar.dev/0/?title='Objective-C'&color=438eff)
 
 
 <!--Docsium::END-->
