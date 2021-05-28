@@ -20,7 +20,21 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![64%](https://progress-bar.dev/64/?title=JavaScript&color=f1e05a)					![19%](https://progress-bar.dev/19/?title=TypeScript&color=2b7489)					![15%](https://progress-bar.dev/15/?title=C%2B%2B&color=f34b7d)					![1%](https://progress-bar.dev/1/?title=HTML&color=e34c26)					![1%](https://progress-bar.dev/1/?title=Other&color=null)					![1%](https://progress-bar.dev/1/?title=JSON&color=null)					![0%](https://progress-bar.dev/0/?title=Objective-C&color=438eff)					
+![64%](https://dcprogressbar.herokuapp.com/?title=JavaScript&color=f1e05a&percentage=63.61&time=6 hrs 48 mins)
+
+![19%](https://dcprogressbar.herokuapp.com/?title=TypeScript&color=2b7489&percentage=19.22&time=2 hrs 3 mins)
+
+![15%](https://dcprogressbar.herokuapp.com/?title=C%2B%2B&color=f34b7d&percentage=14.63&time=1 hr 33 mins)
+
+![1%](https://dcprogressbar.herokuapp.com/?title=HTML&color=e34c26&percentage=0.99&time=6 mins)
+
+![1%](https://dcprogressbar.herokuapp.com/?title=Other&color=null&percentage=0.88&time=5 mins)
+
+![1%](https://dcprogressbar.herokuapp.com/?title=JSON&color=null&percentage=0.61&time=3 mins)
+
+![0%](https://dcprogressbar.herokuapp.com/?title=Objective-C&color=438eff&percentage=0.07&time=0 secs)
+
+
 <!--Docsium::END-->
 
 ![64%](https://dcprogressbar.herokuapp.com/?title=Objective-C&color=3f77c5&percentage=16)
