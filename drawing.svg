@@ -1,39 +1,4 @@
-
-  <circle
-     r="90"
-     cx="100"
-     cy="100"
-     fill="transparent"
-     stroke-dasharray="565.48"
-     stroke-dashoffset="0"
-     id="circle4" />
-  <circle
-     id="bar"
-     r="90"
-     cx="100"
-     cy="100"
-     fill="transparent"
-     stroke-dashoffset="0"
-     stroke-dasharray="565.48" />
-   <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="47.481014"
-     y="103.56569"
-     id="text848"><tspan
-       sodipodi:role="line"
-       id="tspan846"
-       x="47.481014"
-       y="103.56569"
-       style="font-size:24px;fill:#fffdff;fill-opacity:1">Javascript</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
-     x="44.26255"
-     y="130.1416"
-     id="text848-7"><tspan
-       sodipodi:role="line"
-       id="tspan846-5"
-       x="44.26255"
-       y="130.1416"
-       style="font-size:18.66666667px;fill:#fffdff;fill-opacity:1;">1 hr 33 mins</tspan></text>
+<svg id="svg" width="200" height="200" viewPort="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle r="90" cx="100" cy="100" fill="transparent" stroke-dasharray="565.48" stroke-dashoffset="0"></circle>
+  <circle id="bar" r="90" cx="100" cy="100" fill="transparent" stroke-dasharray="565.48" stroke-dashoffset="60"></circle>
+</svg>
