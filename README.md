@@ -20,20 +20,6 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![64%](https://progress-bar.dev/64/?title=JavaScript&color=f1e05a)
-
-![19%](https://progress-bar.dev/19/?title=TypeScript&color=2b7489)
-
-![15%](https://progress-bar.dev/15/?title=C%2B%2B&color=f34b7d)
-
-![1%](https://progress-bar.dev/1/?title=HTML&color=e34c26)
-
-![1%](https://progress-bar.dev/1/?title=Other&color=null)
-
-![1%](https://progress-bar.dev/1/?title=JSON&color=null)
-
-![0%](https://progress-bar.dev/0/?title=Objective-C&color=438eff)
-
-
+<div style="height:20px;width:250px;background:red;border-radius:50px;" ></div>
 <!--Docsium::END-->
-<meter min="0" low="10" optimum="50" high="90" max="100"></meter>
+
