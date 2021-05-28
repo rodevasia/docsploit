@@ -20,7 +20,7 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![64%](https://dcprogressbar.herokuapp.com/?title=JavaScript&color=f1e05a&percentage=64&time=6%20hrs%2048%20mins)
+[h](https://dcprogressbar.herokuapp.com/?title=JavaScript&color=f1e05a&percentage=64&time=6%20hrs%2048%20mins)
 <!-- 
 ![19%](https://dcprogressbar.herokuapp.com/?title=TypeScript&color=2b7489&percentage=19&time=2%20hrs%203%20mins)
 
