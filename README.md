@@ -20,6 +20,6 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![Alt text](./drawing.svg)
+<span style="color:red">hi</span>
 <!--Docsium::END-->
 
