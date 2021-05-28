@@ -20,6 +20,6 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-<span style="color:red">hi</span>
+<span style="color:blue">some *This is Blue italic.* text</span>
 <!--Docsium::END-->
 
