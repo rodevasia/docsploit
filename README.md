@@ -36,5 +36,3 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::END-->
-
-![64%](https://dcprogressbar.herokuapp.com/?title=Objective-C&color=3f77c5&percentage=16)
