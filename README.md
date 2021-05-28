@@ -20,19 +20,5 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![JavaScript](https://dcprogressbar.herokuapp.com/?title=JavaScript&color=f1e05a&percentage=64&time=6%20hrs%2048%20mins)
-
-![TypeScript](https://dcprogressbar.herokuapp.com/?title=TypeScript&color=2b7489&percentage=19&time=2%20hrs%203%20mins)
-
-![C++](https://dcprogressbar.herokuapp.com/?title=C%2B%2B&color=f34b7d&percentage=15&time=1%20hr%2033%20mins)
-
-![HTML](https://dcprogressbar.herokuapp.com/?title=HTML&color=e34c26&percentage=1&time=6%20mins)
-
-![Other](https://dcprogressbar.herokuapp.com/?title=Other&color=ffffff&percentage=1&time=5%20mins)
-
-![JSON](https://dcprogressbar.herokuapp.com/?title=JSON&color=ffffff&percentage=1&time=3%20mins)
-
-![Objective-C](https://dcprogressbar.herokuapp.com/?title=Objective-C&color=438eff&percentage=0&time=0%20secs)
-
 
 <!--Docsium::END-->
