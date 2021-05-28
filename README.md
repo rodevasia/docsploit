@@ -42,12 +42,11 @@ I'm obsessed with Javascript 😚
 <label for="file">File progress:</label>
 
 
-  <svg:svg>
-  <svg:g
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <svg:rect
+    <rect
        style="fill:#959595;fill-opacity:1;stroke-width:0.21680154"
        id="rect4518"
        width="189.8064"
@@ -55,7 +54,7 @@ I'm obsessed with Javascript 😚
        x="7.434813"
        y="121.84453"
        ry="5.1387677" />
-    <svg:rect
+    <rect
        style="fill:#95362c;fill-opacity:1;stroke-width:0.144576"
        id="rect4518-3"
        width="84.407005"
@@ -63,5 +62,5 @@ I'm obsessed with Javascript 😚
        x="7.4347992"
        y="121.84454"
        ry="5.1387682" />
-  </svg:g>
-</svg:svg>
+  </g>
+
