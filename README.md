@@ -36,4 +36,4 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::END-->
-
+<meter min="0" low="10" optimum="50" high="90" max="100"></meter>
