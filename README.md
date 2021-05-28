@@ -20,5 +20,5 @@ I'm obsessed with Javascript 😚
 
 
 <!--Docsium::START-->
-![any](./template.svg)
+![any](https://github.com/DOCSPLOIT/docsium-bot/blob/main/lib/template.svg)
 <!--Docsium::END-->
