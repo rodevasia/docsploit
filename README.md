@@ -28,9 +28,9 @@ I'm obsessed with Javascript 😚
 
 ![1%](https://dcprogressbar.herokuapp.com/?title=HTML&color=e34c26&percentage=0.99&time=6%20mins)
 
-![1%](https://dcprogressbar.herokuapp.com/?title=Other&color=null&percentage=0.88&time=5%20mins)
+![1%](https://dcprogressbar.herokuapp.com/?title=Other&color=ffffff&percentage=0.88&time=5%20mins)
 
-![1%](https://dcprogressbar.herokuapp.com/?title=JSON&color=null&percentage=0.61&time=3%20mins)
+![1%](https://dcprogressbar.herokuapp.com/?title=JSON&color=ffffff&percentage=0.61&time=3%20mins)
 
 ![0%](https://dcprogressbar.herokuapp.com/?title=Objective-C&color=438eff&percentage=0.07&time=0%20secs)
 
