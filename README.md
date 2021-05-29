@@ -18,17 +18,6 @@ I'm obsessed with Javascript 😚
 
 ![Robert Devasia's github stats](https://github-readme-stats.vercel.app/api?username=docsploit&count_private=true&theme=gotham&showicons=true)
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 31 mins  ████████████████▒░░░░░░░░   65.59 % 
-TypeScript   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Other        1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-C++          1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Docker       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-<!--END_SECTION:waka-->
-
-
 <!--Docsium::START-->
 ![any](https://github.com/DOCSPLOIT/docsium-bot/blob/main/lib/template.svg)
 <!--Docsium::END-->
