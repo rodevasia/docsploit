@@ -15,6 +15,7 @@ I'm obsessed with Javascript 😚
 - 💬 Ask me about building a fully fledged hybrid product from scratch
 - 📫 How to reach me: robertdevasia@outlook.com
 - 😄 Pronouns: He/him kiddo 😂
+- 📃 Using: Coding with Kate ✌️
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=docsploit&count_private=true&theme=gotham&showicons=true)
 
